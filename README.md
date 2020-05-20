@@ -9,3 +9,4 @@ Schema definisjoner for bidrag-hendelse
 versjon | endringstype      | beskrivelse
 --------|-------------------|------------------------
 [todo]  | Opprettet         | `RegistrerJournalpostDto`
+# bidrag-hendelse-schema
