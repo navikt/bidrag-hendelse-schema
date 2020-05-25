@@ -12,3 +12,4 @@ versjon | endringstype      | beskrivelse
 --------|-------------------|------------------------
 0.0.1   | Bruk Schema record| `Record: RegistrerJournalpostDto`
 0.0.2   | Endre var type    | endret saksnummer til string type 
+0.0.3   | endring           | entret til string type for Saksnummer og journalpostid i 'RegistrerJournalpostDto' 
