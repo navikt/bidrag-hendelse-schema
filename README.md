@@ -11,4 +11,4 @@ Dette prosjektet bruker avro-maven-plugin til å lese schema records slik at det
 versjon | endringstype      | beskrivelse
 --------|-------------------|------------------------
 [todo]  | Opprettet         | `RegistrerJournalpostDto`
-[todo]  | Lagt til          | `Record: RegistrerJournalpost`
+[todo]  | Slettet java klasser og lagt kun til avsc fil | `Record: RegistrerJournalpostDto`
