@@ -4,6 +4,6 @@
   "name" : "RegistrerJournalpostDto",
   "fields" : [
     {"name": "journalpostid", "type": "long"},
-    {"name": "saksnummer", "type": "long"}
+    {"name": "saksnummer", "type": "string"}
   ]
 }]

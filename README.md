@@ -11,3 +11,4 @@ Dette prosjektet bruker avro-maven-plugin til å lese schema records slik at det
 versjon | endringstype      | beskrivelse
 --------|-------------------|------------------------
 0.0.1   | Bruk Schema record| `Record: RegistrerJournalpostDto`
+0.0.2   | Endre var type    | endret saksnummer til string type 
