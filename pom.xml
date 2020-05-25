@@ -4,7 +4,7 @@
 
   <groupId>no.nav.bidrag.hendelse</groupId>
   <artifactId>bidrag-hendelse-schema</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <description>Schema beans defined for bidrag-hendelse</description>
   <url>https://github.com/navikt/bidrag-hendelse-schema</url>
