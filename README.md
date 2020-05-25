@@ -4,8 +4,11 @@
 
 Schema definisjoner for bidrag-hendelse
 
+Dette prosjektet bruker avro-maven-plugin til å lese schema records slik at det genereres java klasser som skal brukes av kafka produsenter og konsumenter. 
+
 ## release endringer
 
 versjon | endringstype      | beskrivelse
 --------|-------------------|------------------------
 [todo]  | Opprettet         | `RegistrerJournalpostDto`
+[todo]  | Lagt til          | `Record: RegistrerJournalpost`
