@@ -38,6 +38,13 @@
     <url>https://github.com/navikt/bidrag-hendelse-schema.git</url>
     <tag>HEAD</tag>
   </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.avro</groupId>
+      <artifactId>avro</artifactId>
+      <version>1.9.2</version>
+    </dependency>
+  </dependencies>
 
   <build>
     <plugins>
